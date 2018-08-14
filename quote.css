@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html,body{
+	height: 100%;
+}
+body{
+	background: url(quote.jpg) no-repeat center center;
+	background-size: cover;
+	display: flex;
+	margin-top: 90px;
+}
+.cont{
+	font-size: 20px;
+	color: white;
+	width: 600px;
+	margin: 0 auto;
+	text-align: center
+	font-style: bold;
+}
+.con{
+	 font-style: italic;
+		font-size: 12px;
+		margin-top: 15px;
+
+}

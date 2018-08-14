@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	padding: 0;
+
+}
+html,body{
+	height: 100%;
+}
+body{
+	background: url(back.jpg) no-repeat center center;
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.cont{
+	font-size: 30px;
+	width: 600px;
+	margin: 0 auto;
+	text-align: center
+}
+h1{
+	font-style: bold;
+	font-size: 50px;
+	color: white;
+	margin-bottom: 10px;
+
+}
+#stor{
+	font-style: italic;
+	font-size: 17px;
+	padding: 5px;
+	color: white;
+	
+
+}

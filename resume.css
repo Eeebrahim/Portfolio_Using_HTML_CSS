@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+html,body{
+	height: 100%;
+}
+body{
+	background: url(resume.jpg) repeat center center;
+	background-size: cover;
+	display: flex;
+	margin-left: 600px;
+	margin-top: 50px;
+}
+.cont{
+	font-size: 20px;
+	color: white;
+	width: 500px;
+	margin: 0 auto;
+	text-align: center
+	font-style: bold;
+}
+
+}
+.con{
+	 font-style: italic;
+		font-size: 12px;
+		margin-top: 15px;
+
+}
+#tbl{
+	margin-top: 10px;
+}
+.a{
+	height: 10px;
+	width: 10px;
+
+	
+}
+h1{
+	margin-right: 20px;
+}

@@ -1,0 +1,37 @@
+.row{
+	height: 1500;
+	background-color: #2ecc71;
+	width: 1500px;
+
+}
+.photo{
+	height: 15%;
+	background-color: #34495e;
+}
+#pf{
+	border-radius: 100%;
+	border: 2px black;
+	box-shadow: 0 2px 2px black;
+	box-sizing: border-box;
+	position: absolute;
+	margin-bottom: 500px;
+	margin-left: 20px;
+}
+.photo h2{
+	float: 0;
+	font-family: verdana;
+
+}
+#title{
+	position: absolute;
+	font-family: verdana;
+	margin-left: 360px;
+	margin-top: 75px;
+	color: #ecf0f1;
+}
+h3{
+	color: black;
+	margin-top: 13px;
+	margin-left: 5px;
+
+}

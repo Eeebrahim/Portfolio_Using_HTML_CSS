@@ -1,0 +1,25 @@
+body{
+	font-family: sans-serif;
+}
+h1{
+	text-align: center;
+	color: white;
+	margin: 30px 0 50px;
+}
+.gal{
+	margin: 10px 50px;
+}
+.gal img{
+	width: 230px;
+	padding: 5px;
+	filter: grayscale(100%);
+	transition: 1s;
+}
+.gal img:hover{
+	filter: grayscale(0);
+	transform: scale(1.1);
+
+
+}
+
+
